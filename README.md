@@ -1,5 +1,10 @@
 # Resources
 
+### Charts
+* [Chart.js](https://github.com/chartjs/Chart.js)
+  * Simple HTML5 Charts using the canvas element chartjs.org
+* [Morris.js](https://github.com/morrisjs/morris.js)
+  * It's a very simple API for drawing line, bar, area and donut charts.
 ### Design Assets
 * [Carbon](https://carbon.now.sh)
   * Create and share beautiful images of your source code
