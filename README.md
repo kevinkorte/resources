@@ -1,6 +1,8 @@
 # Resources
 
 ### Charts
+* [Britecharts](http://eventbrite.github.io/britecharts/)
+  * Britecharts is a client-side reusable Charting Library based on D3.js v5 that offers easy and intuitive use of charts and components that can be composed together to create amazing visualizations.
 * [Chart.js](https://github.com/chartjs/Chart.js)
   * Simple HTML5 Charts using the canvas element chartjs.org
 * [Morris.js](https://github.com/morrisjs/morris.js)
