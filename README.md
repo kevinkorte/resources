@@ -7,6 +7,9 @@
   * Simple HTML5 Charts using the canvas element chartjs.org
 * [Morris.js](https://github.com/morrisjs/morris.js)
   * It's a very simple API for drawing line, bar, area and donut charts.
+### Colors
+* [Colorable](http://jxnblk.com/colorable/demos/text/)
+  * A tool that helps pick a constracting font color based on the background color
 ### Design Assets
 * [Carbon](https://carbon.now.sh)
   * Create and share beautiful images of your source code
