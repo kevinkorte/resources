@@ -33,6 +33,10 @@
 ### Learning Tools _(all free)_
 * [CSS Grid](https://cssgrid.io/)
   * Learn CSS Grid with Wes Bos in 25 Pretty Good Videos
-### Security
-* [Send by Firefox](https://send.firefox.com)
-  * Private, encrypted file sharing
+### SVG Drawings
+* [Humaaans](https://blush.design/collections/humaaans/humaaans)
+  * Add a humaaan touch to your compositions
+* [Open Peeps](https://blush.design/collections/open-peeps/open-peeps)
+  * Hand-drawn illustrations of people of the world
+* [unDraw](https://undraw.co/)
+  * Open-source illustrations for any idea you can imagine and create
