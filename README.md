@@ -40,3 +40,6 @@
   * Hand-drawn illustrations of people of the world
 * [unDraw](https://undraw.co/)
   * Open-source illustrations for any idea you can imagine and create
+### Confetti
+* [Canvas Confetti](https://www.kirilv.com/canvas-confetti/)
+  * Simple confetti options with a few twists
