@@ -43,3 +43,6 @@
 ### Confetti
 * [Canvas Confetti](https://www.kirilv.com/canvas-confetti/)
   * Simple confetti options with a few twists
+### Toast
+* [Sonner](https://sonner.emilkowal.ski/)
+  * An opinionated toast component for React.
