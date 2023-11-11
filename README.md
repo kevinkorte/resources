@@ -1,15 +1,11 @@
 # Resources
 
 ### Charts
-* [Britecharts](http://eventbrite.github.io/britecharts/)
-  * Britecharts is a client-side reusable Charting Library based on D3.js v5 that offers easy and intuitive use of charts and components that can be composed together to create amazing visualizations.
+* [Britecharts](https://britecharts.github.io/britecharts/)
+  * Build stunning D3.js-powered interactive charts with little code
 * [Chart.js](https://github.com/chartjs/Chart.js)
   * Simple HTML5 Charts using the canvas element chartjs.org
-* [Morris.js](https://github.com/morrisjs/morris.js)
-  * It's a very simple API for drawing line, bar, area and donut charts.
 ### Colors
-* [Colorable](http://jxnblk.com/colorable/demos/text/)
-  * A tool that helps pick a constracting font color based on the background color
 ### Design Assets
 * [Carbon](https://carbon.now.sh)
   * Create and share beautiful images of your source code
@@ -22,13 +18,11 @@
 * [Streamline UX Vector Illustrations](http://streamlineicons.com/ux/)
   * Use lively pictures to help your message come across in a convincing and delightful way.
 * [UIgradients](https://uigradients.com/)
-  * An easy way to find graidents of all colors and types
-* [Undraw.co](https://undraw.co/)
-  * MIT licensed illustrations
+  * An easy way to find gradients of all colors and types
 ### Icons
 * [Feather Icons](https://feathericons.com/)
   * Simple beautiful open source icons
-* [Font Awesome 5](https://fontawesome.com/)
+* [Font Awesome](https://fontawesome.com/)
   * Get vector icons and social logos on your website with Font Awesome, the web’s most popular icon set and toolkit.
 ### Learning Tools _(all free)_
 * [CSS Grid](https://cssgrid.io/)
