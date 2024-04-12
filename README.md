@@ -5,6 +5,10 @@
   * Build stunning D3.js-powered interactive charts with little code
 * [Chart.js](https://github.com/chartjs/Chart.js)
   * Simple HTML5 Charts using the canvas element chartjs.org
+* [Tremor.so](https://www.tremor.so/)
+  * React components to build charts and dashboards (Tailwind CSS)
+* [Victory](https://commerce.nearform.com/open-source/victory/)
+  * React.js components for modular charting and data visualization.
 ### Colors
 ### Design Assets
 * [Carbon](https://carbon.now.sh)
