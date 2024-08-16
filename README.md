@@ -44,3 +44,5 @@
 ### Toast
 * [Sonner](https://sonner.emilkowal.ski/)
   * An opinionated toast component for React.
+### Analytics
+* [Microsoft Clarity](https://clarity.microsoft.com/)
