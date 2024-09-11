@@ -46,3 +46,5 @@
   * An opinionated toast component for React.
 ### Analytics
 * [Microsoft Clarity](https://clarity.microsoft.com/)
+* [Umani](https://umami.is/)
+  * [Free plan] Effortless analytics and real-time insights. 
