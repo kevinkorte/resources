@@ -10,19 +10,17 @@
 * [Victory](https://commerce.nearform.com/open-source/victory/)
   * React.js components for modular charting and data visualization.
 ### Colors
-### Design Assets
-* [Carbon](https://carbon.now.sh)
-  * Create and share beautiful images of your source code
 * [Colorwise](https://colorwise.io/)
   * Search through the most voted products on Product Hunt
 * [Coolhue](https://webkul.github.io/coolhue/)
   * Coolest handpicked gradient hues for your next super amazing stuff
 * [Grabient](https://www.grabient.com/)
   * A nice collection of gradients
-* [Streamline UX Vector Illustrations](http://streamlineicons.com/ux/)
-  * Use lively pictures to help your message come across in a convincing and delightful way.
 * [UIgradients](https://uigradients.com/)
   * An easy way to find gradients of all colors and types
+### Design Assets
+* [Carbon](https://carbon.now.sh)
+  * Create and share beautiful images of your source code
 ### Icons
 * [Feather Icons](https://feathericons.com/)
   * Simple beautiful open source icons
