@@ -27,7 +27,7 @@
   * A nice collection of gradients
 * [UIgradients](https://uigradients.com/)
   * An easy way to find gradients of all colors and types
-* [PatternCraft](https://patterncraft.fun/)
+* [PatternCraft](https://patterncraft.store/)
   * Professional-grade background patterns and gradients. Easily copy the code and seamlessly integrate it into your projects. Crafted with modern CSS and Tailwind
 ### Fonts
 * [Google Fonts](https://fonts.google.com/)
